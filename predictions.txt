@@ -1,0 +1,22 @@
+Coefficient of determination w/o Race: 0.6716
+Coefficient of determination w/ Race: 0.6717 
+
+The values on the WR & NR lines are difference between the predicted
+   violent crime per pop stats for each city, smaller absolute values are better
+WR - With Race,   NR - No Race
+The Race line is the difference between the two cities %WhtTo%PoC metric
+
+Most Similar cities:
+Cities: 848-983  595-1893 389-1111 1033-1224 27-1473 668-699 1658-1926 1461-1768 1171-1413
+WR  :  [-0.46709 -0.34654 -0.48781 -0.44917 -0.49185 -0.06118 -0.52099 -0.53498  -0.10735]
+NR  :  [-0.03599 -0.02248 -0.02524 -0.02567 -0.02419  0.07746 -0.06294  0.03807  -0.07559]
+Race:  [ 0.16114 -0.03583  0.01796 -0.00461  0.       0.00054  0.03222  0.03222.  0.00034]
+         *The city numbers are the index number of the two cities being compared 
+
+Most Dissimilar Cities:
+Cities: 1134-1615 139-1134 910-1134 849-1134 1158-1847 287-1134 657-1134 744-1134 492-1134 1500-1847
+WR  :  [-0.51454  0.36923  0.36923  0.42797  0.36923   0.36923  0.36923  0.36923. 0.36923  0.42797]
+NR  :  [ 0.88373 -0.84824 -0.99212 -0.90696 -0.90951  -0.83566 -0.94433 -0.94433 -0.99528 -0.98873]
+Race:  [-0.00601  0.01528  0.0093   0.06929  0.11944   0.00452  0.0149   0.0149   0.03967  0.00846]
+         *The city numbers are the index number of the two cities being compared 
+
